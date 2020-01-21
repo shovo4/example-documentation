@@ -22,7 +22,7 @@ This is a storyboard describing user flow, the numbers correspond with something
 [![Storyboard](https://raw.githubusercontent.com/UAlberta-CMPUT401/example-documentation/master/docs/images/storyboard.png)](https://github.com/UAlberta-CMPUT401/example-documentation/blob/master/docs/files/storyboard.pdf)
 
 ## Use Cases or User Stories
-[User stories can be found under the requirements section here.](/requirements)
+[User stories can be found under the requirements section here.](/example-documentation/requirements)
 
 ## Techincal Resources
 * Backend: Flask + PostgreSQL
