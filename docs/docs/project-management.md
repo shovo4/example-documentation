@@ -1,4 +1,5 @@
-# Release Planning
+# Project Management
+This page provides a general overview of the assigned tasks and roles for the duration of four sprints (subject to change).
 
 ## Project Plan
 ### Sprint 1  

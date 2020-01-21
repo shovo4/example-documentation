@@ -1,4 +1,5 @@
 ## User Stories
+User Stories are described with a specific format: blah, blah, and blah. User stories are also further organized using the MoSCoW method (must have, should have, could have, would have) under their own sections.
 
 ### US 1.01 - Authentication
 > **As a User** <br></br>

@@ -18,8 +18,11 @@ The experiments database system is intended to replace an existing desktop appli
 - **Subject** - A subject is an animal used as part of an experiment. Each subject will have a unique ID.
 
 ## Storyboarding
+This is a storyboard describing user flow, the numbers correspond with something.
+[![Storyboard](https://raw.githubusercontent.com/UAlberta-CMPUT401/example-documentation/master/docs/images/storyboard.png)](https://github.com/UAlberta-CMPUT401/example-documentation/blob/master/docs/files/storyboard.pdf)
 
 ## Use Cases or User Stories
+[User stories can be found under the requirements section here.](/requirements)
 
 ## Techincal Resources
 * Backend: Flask + PostgreSQL
