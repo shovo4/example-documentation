@@ -34,7 +34,7 @@ This is a storyboard describing user flow, the numbers correspond with something
     - Search inventory management
     - &lt;functionalities, with comments on how they may be used for code or inspiration&gt;
 * [LORIS](http://www.loris.ca/)
-    - Neuroimaging data managemen
+    - Neuroimaging data management
     - &lt;functionalities, with comments on how they may be used for code or inspiration&gt;
 
 ## Similar Open-source Projects
