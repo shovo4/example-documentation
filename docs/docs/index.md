@@ -44,17 +44,18 @@ A short overview of the project (one paragraph), including the following: the pr
 > 2. When the profile button is clicked, it will take me to my profile. 
 > 3. User input is their specific user data.
 
-## Must Have
+## MoSCoW
+### Must Have
 * US 1.03 - View Profile
 * US 2.89 - Change Password 
 
-## Should Have
+### Should Have
 * US 1.23 - Create Account
 
-## Could Have
+### Could Have
 * US 3.21 - Delete Account
 
-## Would Like But Won't Get
+### Would Like But Won't Get
 * US 9.23 - Rainbows and Unicorns
 
 ## Similar Products
