@@ -1,6 +1,8 @@
-# Overview
+# Project Requirements
 
-The experiments database system is intended to replace an existing desktop application for storing experiments. This system will be a web application that has all the functionality of the existing desktop application with online capabilities and the ability for different users. This system is intended for all participants in a research group. This system will be used to actively store experimental data for a research lab.
+## Executive Summary
+
+A short overview of the project (one paragraph), including the following: the problem that the product will solve (use your client’s language); value proposition (what will be the essential functionality or your product); who will use your product; how your product will be used.
 
 ## Project Glossary
 - **Attempt** An attempt is one data entry recorded from the procedure and assigned to an experiment.
@@ -17,17 +19,43 @@ The experiments database system is intended to replace an existing desktop appli
 
 - **Subject** - A subject is an animal used as part of an experiment. Each subject will have a unique ID.
 
-## Storyboarding
-This is a storyboard describing user flow, the numbers correspond with something.
-[![Storyboard](https://raw.githubusercontent.com/UAlberta-CMPUT401/example-documentation/master/docs/images/storyboard.png)](https://github.com/UAlberta-CMPUT401/example-documentation/blob/master/docs/files/storyboard.pdf)
+## User Stories
+### US 1.01 - Authentication
+> **As** a User, **I want** to authenticate with my University of Alberta account, **so that** I can get access to the app's functionalities.
 
-## Use Cases or User Stories
-[User stories can be found under the requirements section here.](/example-documentation/requirements)
+> **Acceptance Tests**
 
-## Techincal Resources
-* Backend: Flask + PostgreSQL
-* Deployment: Docker + k8s + TravisCI
-* Frontend: Vue.js + Buefy
+> 1. Login as user with correct information
+> 2. Input incorrect information and make sure it doesn't allow the user to continue
+
+### US 1.02 - View Tasks
+> **As** a User, **I want** to be able to see events/surveys/quizzes that are currently going on for the week, **so that** I can attend theses events if I choose to.
+
+> **Acceptance Tests**
+
+> 1. User should be able to see all of the events in a list as well as all of the surveys and quizzes if they choose to.
+
+### US 1.03 - View Profile
+> **As** a User, **I want** to be able to view my profile, **so that** I can see my level, points, my history of attending events, surveys and quizzes.
+
+> **Acceptance Tests**
+
+> 1. Need to ensure the button in the drop-down menu will open. 
+> 2. When the profile button is clicked, it will take me to my profile. 
+> 3. User input is their specific user data.
+
+## Must Have
+* US 1.03 - View Profile
+* US 2.89 - Change Password 
+
+## Should Have
+* US 1.23 - Create Account
+
+## Could Have
+* US 3.21 - Delete Account
+
+## Would Like But Won't Get
+* US 9.23 - Rainbows and Unicorns
 
 ## Similar Products
 * [Digikey](http://www.digikey.ca/products/en)
@@ -37,7 +65,19 @@ This is a storyboard describing user flow, the numbers correspond with something
     - Neuroimaging data management
     - &lt;functionalities, with comments on how they may be used for code or inspiration&gt;
 
-## Similar Open-source Projects
+## Open-source Projects
 * [eLabFTW](https://github.com/elabftw/elabftw)
     - Experiment notebook software
     - &lt;functionalities, with comments on how they may be used for code or inspiration&gt; 
+
+## Techincal Resources
+### Backend: Flask + PostgreSQL
+  * [Flask Documentation](https://flask.palletsprojects.com/en/2.0.x/tutorial/index.html)
+  * [Setting up Postgres, SQLAlchemy, and Alembic](https://realpython.com/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/)
+### Deployment: Docker + k8s + TravisCI
+  * [Deploy on Kubernetes - Docker Documentation](https://docs.docker.com/desktop/kubernetes/)
+  * [Travis CI Documentation](https://docs.travis-ci.com/)
+  * [Setting up Travis CI on an existing Python/Docker project](https://www.youtube.com/watch?v=1PC68ufAn6U)
+### Frontend: Vue.js + Buefy
+  * [Vue.js v2 Guide](https://vuejs.org/v2/guide/)
+  * [Buefy Documentation](https://buefy.org/documentation)
