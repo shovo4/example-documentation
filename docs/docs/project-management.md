@@ -56,6 +56,15 @@ This page provides a general overview of the assigned tasks and roles for the du
 | Deployment manual | Documentation | Maurice Obrien | TBD |  
 | Data export module | US 0.8 | Dallas Taylor | TBD |
 
+## Belbin Roles
+
+| **Name** | **Natural (Preferred) Roles** (highest scoring) | **Manageable Roles** (middle scoring) | **Least Preferred Roles** (lowest scoring) |
+| --- | --- | --- | --- | 
+| Traci Townsend | PL, TW, CO | ME, SP, SH | IMP, CF, RI |  
+| Kelly King  | ME, SH, IMP | RI, CF, CO | PL, TW, SP |
+| Maurice Obrien | CO, SP, SH | IMP, CF, RI | PL, TW, ME |  
+| Dallas Taylor | IMP, CF, SH | ME, SP, PL | CO, TW, RI |
+
 ## Team Canvas
 
 [![TeamCanvas](https://raw.githubusercontent.com/UAlberta-CMPUT401/example-documentation/master/docs/images/team-canvas-example.png)](https://raw.githubusercontent.com/UAlberta-CMPUT401/example-documentation/master/docs/images/team-canvas-example.png)
