@@ -1,50 +1,60 @@
 # Project Management
 
-This page provides a general overview of the assigned tasks and roles for the duration of four sprints (subject to change).
+This page provides a general overview of the assigned tasks and roles for the duration of five sprints (subject to change).
 
 ## Story Map
 [![StoryMap](https://raw.githubusercontent.com/UAlberta-CMPUT401/example-documentation/master/docs/images/UserStoryMapDefinitions.png)](https://raw.githubusercontent.com/UAlberta-CMPUT401/example-documentation/master/docs/images/UserStoryMapDefinitions.png)
 
 ## Project Plan
 ### Sprint 1  
-**Due: February 7**
+**Due: September 24**
 
 | **Rubric Description** | **Task To-Do** | **Assigned To** | **Date To Complete By** |
 | --- | --- | --- | --- | 
-| Requirement Specification | Documentation | Traci Townsend | February 1 |  
-| UI Navigation Diagram | Documentation | Kelly King | February 4 |
-| UML Components and Class Models | Documentation | Maurice Obrien | February 2 |  
-| Release Planning | Documentation | Dallas Taylor | February 7 |
+| Requirement Specification | Documentation | Traci Townsend | Sep 19 |  
+| UI Navigation Diagram | Documentation | Kelly King | Sep 21 |
+| UML Components and Class Models | Documentation | Maurice Obrien | Sep 20 |  
+| Release Planning | Documentation | Dallas Taylor | Sep 24 |
 
 ### Sprint 2  
-**Due: March 2**
+**Due: October 8**
 
 | **Rubric Description** | **Task To-Do** | **Assigned To** | **Date To Complete By** |
 | --- | --- | --- | --- | 
-| PostgreSQL database setup | US 0.1 | Traci Townsend | March 1 |  
-| Django models | US 0.2 | Kelly King | February 28 |
-| User authentication | US 0.4 | Maurice Obrien | February 23 |  
-| Flask setup | US 0.7 | Dallas Taylor | March 5 |
+| PostgreSQL database setup | US 0.1 | Traci Townsend | Oct 5 |  
+| Django models | US 0.2 | Kelly King | Oct 2 |
+| User authentication | US 0.4 | Maurice Obrien | Oct 8 |  
+| Flask setup | US 0.7 | Dallas Taylor | Oct 6 |
 
 ### Sprint 3  
-**Due: April 1**
+**Due: October 22**
 
 | **Rubric Description** | **Task To-Do** | **Assigned To** | **Date To Complete By** |
 | --- | --- | --- | --- | 
-| Dashboard | US 0.1 | Traci Townsend | March 20 |  
-| Questionnaire  | US 0.2 | Kelly King | March 28 |
-| Report generation | US 0.4 | Maurice Obrien | April 1 |  
-| CI/CD (GitHub Actions) | US 0.7 | Dallas Taylor | March 23 |
+| Dashboard | US 1.3 | Traci Townsend | TBD |  
+| Questionnaire  | US 1.8 | Kelly King | TBD |
+| Report generation | US 2.4 | Maurice Obrien | TBD |  
+| CI/CD (GitHub Actions) | Testing | Dallas Taylor | TBD |
 
 ### Sprint 4  
-**Due: April 15**
+**Due: November 12**
 
 | **Rubric Description** | **Task To-Do** | **Assigned To** | **Date To Complete By** |
 | --- | --- | --- | --- | 
-| User manual | Documentation | Traci Townsend |April 14 |  
-| Acceptance tests  | Documentation | Kelly King | April 15 |
-| Deployment manual | Documentation | Maurice Obrien | April 10 |  
-| Data export module | US 0.8 | Dallas Taylor | April 5 |
+| About us | US 1.1 | Traci Townsend | TBD |  
+| Home screen  | US 1.2 | Kelly King | TBD |
+| Mobile UI | US 3.1 | Maurice Obrien | TBD |  
+| UI tests (Selenium) | Testing | Dallas Taylor | TBD |
+
+### Sprint 5
+**Due: December 3**
+
+| **Rubric Description** | **Task To-Do** | **Assigned To** | **Date To Complete By** |
+| --- | --- | --- | --- | 
+| User manual | Documentation | Traci Townsend | TBD |  
+| Acceptance tests  | Documentation | Kelly King | TBD |
+| Deployment manual | Documentation | Maurice Obrien | TBD |  
+| Data export module | US 0.8 | Dallas Taylor | TBD |
 
 ## Team Canvas
 
