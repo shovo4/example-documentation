@@ -25,24 +25,31 @@ A short overview of the project (one paragraph), including the following: the pr
 
 > **Acceptance Tests**
 
-> 1. Login as user with correct information
-> 2. Input incorrect information and make sure it doesn't allow the user to continue
+> 1. User can sign in with correct U of A credentials (ualberta.ca email and password)
+> 2. User can not sign in with correct email and incorrect password
+> 3. User can not sign in with incorrect email
+> 4. User can not sign in with a non U of A email
+> 5. User can not access app's functionalities without signing in
 
 ### US 1.02 - View Tasks
-> **As** a User, **I want** to be able to see events/surveys/quizzes that are currently going on for the week, **so that** I can attend theses events if I choose to.
+> **As** a User, **I want** to be able to see events that are currently going on for the week, **so that** I can attend theses events if I choose to.
 
 > **Acceptance Tests**
 
-> 1. User should be able to see all of the events in a list as well as all of the surveys and quizzes if they choose to.
+> 1. User can see a list of all events for the chosen week
+> 2. With the selected week, user can not see events that are scheduled for other weeks
+> 3. User can see only active events (i.e., open for attendance)
 
 ### US 1.03 - View Profile
-> **As** a User, **I want** to be able to view my profile, **so that** I can see my level, points, my history of attending events, surveys and quizzes.
+> **As** a User, **I want** to be able to view my profile, **so that** I can see my level, points, my history of attending events.
 
 > **Acceptance Tests**
 
-> 1. Need to ensure the button in the drop-down menu will open. 
-> 2. When the profile button is clicked, it will take me to my profile. 
-> 3. User input is their specific user data.
+> 1. User can access their profile
+> 2. User can see their level, number of points and history of attending events in their profile
+> 3. Test with a zero and non-zero level
+> 4. Test with a zero and non-zero number of points
+> 5. Test with an empty, non-empty and very long (>50 items) event history
 
 ## MoSCoW
 ### Must Have
