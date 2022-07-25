@@ -6,7 +6,7 @@ This page includes a short description of the overall architecture style of the 
 
 This is a short description of the architecture.
 
-[![Architecture](https://raw.githubusercontent.com/UAlberta-CMPUT401/example-documentation/master/docs/images/architecture.png)](https://raw.githubusercontent.com/UAlberta-CMPUT401/example-documentation/master/docs/images/architecture.png)
+[![Architecture](images/architecture.png)](images/architecture.png)
 
 ## UML Class Diagram
 
