@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-A short overview of the project (one paragraph), including the following: the problem that the product will solve (use your client’s language); value proposition (what will be the essential functionality or your product); who will use your product; how your product will be used.
+The Pronunciaton Practice Hub is a website that allows young students to learn how to pronounce the verses of the Quran in Arabic. Students will have the ability to practice their pronunciation of verses assigned by their teacher through listening to an audio file, then repeating the verse back to themselves. The app is intended for K-8 students, but can be used by any age-group or demographic. Parents, teachers, and content creators will also have access to the site in order to view their child's progress, assign new work to students, and upload new learning modules for students respectively.
 
 ## Project Glossary
 - **Attempt** An attempt is one data entry recorded from the procedure and assigned to an experiment.
@@ -66,26 +66,34 @@ A short overview of the project (one paragraph), including the following: the pr
 * US 9.23 - Rainbows and Unicorns
 
 ## Similar Products
-* [Digikey](http://www.digikey.ca/products/en)
-    - Search inventory management
-    - &lt;functionalities, with comments on how they may be used for code or inspiration&gt;
-* [LORIS](http://www.loris.ca/)
-    - Neuroimaging data management
-    - &lt;functionalities, with comments on how they may be used for code or inspiration&gt;
+* [Duolingo](https://www.duolingo.com/)
+    - Online language-learning software
+    - Language learning completed in the form of 'lessons' can be applied to current project
+    - Capable of displaying Arabic script, so is a useful reference for displaying Arabic properly
+    - Simple UI that is widely-accessible, so should take insipration on design since it will work well for young students
+* [TarteeleQuran](https://www.tarteelequran.com/)
+    - Online Quran education
+    - No self-directed learning, students have lessons with teachers, helping us see what elements of the Arabic Quran can't easily be taught in a self-directed manner
+    - Teaches Arabic outside of the Quran as well, providing insights into how we can expand the project in future to grow the user-base
+* [ArabAcademy](https://www.arabacademy.com/)
+    - Site for learning Arabic and not just the Quran
+    - Provides Arabic lessons in a self-learning environment, similar to what this project intends to accomplish
+    - Integrated teacher support that connects students with teachers, providing inspiration for expanding student-teacher interactions in this project
 
 ## Open-source Projects
-* [eLabFTW](https://github.com/elabftw/elabftw)
-    - Experiment notebook software
-    - &lt;functionalities, with comments on how they may be used for code or inspiration&gt; 
+* [Quran.com API](https://quran.api-docs.io/v4/getting-started/introduction)
+    - Open-source API of Quranic verses
+    - Allows us to query the API when we want to the text for specific verses
+    - Provides audio files containing the pronunciation of each verse, allowing us to easily access all audio needed for the project
+    - We can scrape the data from the API and add it to our own database, allowing us to add lessons outside the Quran without having to worry about unnecessary API calls
 
 ## Techincal Resources
-### Backend: Flask + PostgreSQL
-  * [Flask Documentation](https://flask.palletsprojects.com/en/2.0.x/tutorial/index.html)
+### Backend: Django + PostgreSQL
+  * [Django Documentation](https://docs.djangoproject.com/en/4.1/)
   * [Setting up Postgres, SQLAlchemy, and Alembic](https://realpython.com/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/)
-### Deployment: Docker + k8s + TravisCI
-  * [Deploy on Kubernetes - Docker Documentation](https://docs.docker.com/desktop/kubernetes/)
-  * [Travis CI Documentation](https://docs.travis-ci.com/)
-  * [Setting up Travis CI on an existing Python/Docker project](https://www.youtube.com/watch?v=1PC68ufAn6U)
-### Frontend: Vue.js + Buefy
-  * [Vue.js v2 Guide](https://vuejs.org/v2/guide/)
-  * [Buefy Documentation](https://buefy.org/documentation)
+### Deployment: Docker + CyberaRAC
+  * [Using Docker with CyberaRAC](https://wiki.cybera.ca/display/RAC/Using+Docker+Machine)
+  * [Docker Documentation](https://docs.docker.com/)
+  * [Cybera Rapid Access Cloud Guide](https://wiki.cybera.ca/display/RAC/Rapid+Access+Cloud+Guide%3A+Part+1)
+### Frontend: React.js
+  * [React.js Documentation](https://reactjs.org/docs/getting-started.html)
