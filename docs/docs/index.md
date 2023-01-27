@@ -86,6 +86,10 @@ The Pronunciaton Practice Hub is a website that allows young students to learn h
     - Allows us to query the API when we want to the text for specific verses
     - Provides audio files containing the pronunciation of each verse, allowing us to easily access all audio needed for the project
     - We can scrape the data from the API and add it to our own database, allowing us to add lessons outside the Quran without having to worry about unnecessary API calls
+* [Tanzil Quran](https://tanzil.net/download/)
+    - Open-source database of Quranic verses in Arabic
+    - Allows us to download the complete text of the Quran in multiple styles and formats, allowing us to configure the data to fit our requirements
+    - No audio files, so we would still have to incorporate the Quran.com API as well
 
 ## Techincal Resources
 ### Backend: Django + PostgreSQL
