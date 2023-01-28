@@ -12,10 +12,12 @@ Source: [https://www.belbin.com/about/belbin-team-roles](https://www.belbin.com/
 
 | **Name**       | **Preferred Roles** | **Manageable Roles** | **Least Preferred Roles** |
 | -------------- | ------------------- | -------------------- | ------------------------- |
-| Traci Townsend | PL, TW, CO          | ME, SP, SH           | IMP, CF, RI               |
-| Kelly King     | ME, SH, IMP         | RI, CF, CO           | PL, TW, SP                |
-| Maurice Obrien | CO, SP, SH          | IMP, CF, RI          | PL, TW, ME                |
-| Dallas Taylor  | IMP, CF, SH         | ME, SP, PL           | CO, TW, RI                |
+| Firas Al Chalabi | SP, CF, IMP          | SH, TW, RI           | ME, CO, PL               |
+| Matheus Duncan     | PL, ME, SP         | IMP, TW, CF           | CO, SH, RI                |
+| Amrit Aujla | CF, TW, IMP          | SP, ME, CO          | SH, PL, RI                |
+| Dallin Dmytryk  | IMP, ME, SH         | CF, RI, TW           | CO, PL, SP                |
+| Sanjeev Kotha  | CF, TW, IMP         | SH, SP, CO           | PL, ME, RI                |
+| MD Saiful Islam Shovo  | IMP, CO, RI         | TW, PL, SP           | SH, CP, CF                |
 
 
 ### Thinking Roles
@@ -24,23 +26,27 @@ Source: [https://www.belbin.com/about/belbin-team-roles](https://www.belbin.com/
 
 > Tends to be highly creative and good at solving problems in unconventional ways.
 
-1. Traci Townsend (preferred)
-2. Dallas Taylor (manageable)
+1. Matheus Duncan (preferred)
 
 #### ME (Monitor Evaluator)
 
 > Provides a logical eye, making impartial judgements where required and weighs up the team's options in a dispassionate way.
 
-1. Kelly King (preferred)
-2. Dallas Taylor (manageable)
+1. Matheus (preferred)
+2. Dallin (preferred)
+3. Amrit (manageable)
+4. Shovo (manageable)
 
 #### SP (Specialist)
 
 > Brings in-depth knowledge of a key area to the team.
 
-1. Maurice Obrien (preferred)
-2. Traci Townsend (manageable)
-3. Dallas Taylor (manageable)
+1. Firas (preferred)
+2. Matheus (preferred)
+3. Amrit (manageable)
+4. Sanjeev (manageable)
+5. Shovo (manageable)
+
 
 ### Action Roles
 
@@ -48,26 +54,31 @@ Source: [https://www.belbin.com/about/belbin-team-roles](https://www.belbin.com/
 
 > Provides the necessary drive to ensure that the team keeps moving and does not lose focus or momentum.
 
-1. Kelly King (preferred)
-2. Maurice Obrien (preferred)
-3. Dallas Taylor (preferred)
-4. Traci Townsend (manageable)
+1. Dallin (preferred)
+2. Firas (manageable)
+3. Sanjeev (manageable)
 
 #### IMP (Implementer)
 
 > Needed to plan a workable strategy and carry it out as efficiently as possible.
 
-1. Kelly King (preferred)
-2. Dallas Taylor (preferred)
-3. Maurice Obrien (manageable)
+1. Firas (preferred)
+2. Sanjeev (preferred)
+3. Dallin (preferred)
+4. Amrit (preferred)
+5. Shovo (Preferred)
+6. Matheus (manageable)
 
 #### CF (Completer Finisher)
 
 > Most effectively used at the end of tasks to polish and scrutinise the work for errors, subjecting it to the highest standards of quality control.
 
-1. Dallas Taylor (preferred)
-2. Kelly King (manageable)
-3. Maurice Obrien (manageable)
+1. Firas (preferred)
+2. Sanjeev (preferred)
+3. Amrit (preferred)
+4. Matheus (manageable)
+5. Dallin (manageable)
+
 
 ### People Roles
 
@@ -75,17 +86,25 @@ Source: [https://www.belbin.com/about/belbin-team-roles](https://www.belbin.com/
 
 > Uses their inquisitive nature to find ideas to bring back to the team. 
 
-1. Maurice Obrien (manageable)
+1. Firas (manageable)
+2. Dallin (manageable)
+3. Shovo (Preferred)
 
 #### TW (Teamworker)
 
 > Helps the team to gel, using their versatility to identify the work required and complete it on behalf of the team.
 
-1. Traci Townsend (preferred)
+1. Sanjeev (preferred)
+2. Amrit (preferred)
+3. Firas (manageable)
+4. Matheus (manageable)
+5. Dallin (manageable)
+6. Shovo (manageable)
 
 #### CO (Co-ordinator)
 
 > Needed to focus on the team's objectives, draw out team members and delegate work appropriately.
 
-1. Traci Townsend (preferred)
-2. Kelly King (manageable)
+1. Sanjeev (manageable)
+2. Amrit (manageable)
+3. Shovo (Preferred)
