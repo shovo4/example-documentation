@@ -4,7 +4,7 @@ This page provides an overview of the team and its members.
 
 ## Team Canvas
 
-[![TeamCanvas](https://raw.githubusercontent.com/firasalchalabi/master/docs/images/Team Canvas.png)](https://raw.githubusercontent.com/firasalchalabi/example-documentation/master/docs/images/Team Canvas.png)
+[![TeamCanvas](https://raw.githubusercontent.com/firasalchalabi/master/docs/images/team_canvas.png)](https://raw.githubusercontent.com/firasalchalabi/example-documentation/master/docs/images/team_canvas.png)
 
 ## Belbin Roles
 
