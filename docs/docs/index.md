@@ -9,15 +9,15 @@ The Pronunciaton Practice Hub is a website that allows young students to learn h
 
 - **Chapter** - A chapter consists of a lessons on a similar subject, with an accompanying label to describe the lessons.
 
-- **Lesson Tab** - A lesson tab consists of lessons and/or chapters. Lesson tabs aggregate larger concepts and or languages.
+- **Lesson Tab** - A lesson tab consists of lessons and/or chapters. Lesson tabs aggregate larger concepts and/or languages.
 
 - **Student Account** - An account representing a student, may view and do lessons. Can be associated with teacher accounts. Can have lessons assigned to them by a teacher.
 
-- **Teacher Account** - An account representing a teacher. Can be associated with student accounts. Can assign lessons to students, and monitor their process..
+- **Teacher Account** - An account representing a teacher. Can be associated with student accounts. Can assign lessons to students, and monitor their process.
 
 - **Parent Account** - An account representing the parent or guardian of a student. May be associated with one or more student accounts. Can view the progress of an associated student..
 
-- **Content Creator Account** - An account that is responsible for adding content to the system. May also be a teacher account. Can upload files to create and organize lessons, lesson groups, and lesson collections.
+- **Content Creator Account** - An account that is responsible for adding content to the system. May also be a teacher account. Can upload files to create and organize lessons, chapters, and lesson tabs.
 
 - **Assignment** - A set of lessons assigned to a student account by a teacher account. Tracks the assignees progress.
 
@@ -41,12 +41,13 @@ The Pronunciaton Practice Hub is a website that allows young students to learn h
 > 3. New user has the correct information displayed on their account
 
 ##### US 1.02 - Assign Roles to Users
-> As an admin, I would like to assign a user one or more roles from “students”, “parents”, “teachers”, “content creators”, so that they can only use the service according to their assigned roles.
+> As an admin, I would like to assign a user a role from “student”, “parent”, “teacher”, “content creator”, so that they can only use the service according to their assigned role.
 
 > **Acceptance Tests**
 
-> 1. Admin can assign one or more roles to user
-> 2. User roles stored in database
+> 1. Admin can assign a role to user
+> 2. Role is one of "student", “parent”, “teacher”, “content creator”.
+> 3. User roles stored in database
 
 ##### US 1.03 - Different Layouts 
 > As an admin, I want some users to be shown a different layout of my service according to their role, so that users only view information relevant to them.
@@ -117,14 +118,6 @@ The Pronunciaton Practice Hub is a website that allows young students to learn h
 > 1. Admin can link student accounts to parent accounts
 > 2. Parents can have multiple student accounts linked to their account
 > 3. Parent’s children are displayed when managing parent accounts
-
-##### US 1.11 - View Tasks
-> As an admin, I want to be able to remove lessons from the system, I case there are issues with the lessons.
-
-> **Acceptance Tests**
-
-> 1. Lesson data is no longer stored in the system
-> 2. Lesson is no longer displayed to any user
 
 ### US 2 - Content Creator
 ##### US 2.01 - Create Lesson Tabs
@@ -221,6 +214,14 @@ The Pronunciaton Practice Hub is a website that allows young students to learn h
 > 1. Content creator can upload lessons with Arabic text
 > 2. Arabic text is displayed correctly and appropriately (in the correct position)
 
+##### US 2.11 - Content Creator
+> As a content creator, I want to be able to remove lessons from the system, in case there are issues with the lessons.
+
+> **Acceptance Tests**
+
+> 1. Lesson data is no longer stored in the system
+> 2. Lesson is no longer displayed to any user
+
 ### US 3 - Student
 ##### US 3.01 - View Lesson Tabs
 > As a student, I want to be able to view lesson tabs that have assigned lessons for me, so that I can access my lessons.
@@ -301,8 +302,8 @@ The Pronunciaton Practice Hub is a website that allows young students to learn h
 
 > **Acceptance Tests**
 
-> 1. Lessons are visually divided into collections
-> 2. Lessons collections have a header to indicate type and content of the collection
+> 1. Lessons are visually divided into tabs
+> 2. Lessons tabs have a header to indicate type and content of the lesson tab
 
 ##### US 3.10 - Student Accounts
 > As a student, I want to have an account associated with me, so that I can have my progress tracked and have assignments.
